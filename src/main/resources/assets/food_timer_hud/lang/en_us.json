@@ -1,0 +1,15 @@
+{
+  "title.food_timer_hud.config": "FoodTime Configuration",
+  "category.food_timer_hud.general": "General",
+  "option.food_timer_hud.enable": "Enable HUD",
+  "option.food_timer_hud.x": "HUD X Position",
+  "option.food_timer_hud.y": "HUD Y Position",
+  "option.food_timer_hud.scale": "HUD Scale",
+  "key.food_timer_hud.open_config": "Open Configuration",
+  "key.food_timer_hud.edit_hud": "Edit HUD Layout",
+  "category.food_timer_hud.keys": "FoodTime",
+  "title.food_timer_hud.edit": "FoodTime HUD Editor",
+  "text.food_timer_hud.edit_instructions": "Drag to move HUD. Scroll to resize. Press ESC to save & exit.",
+  "text.food_timer_hud.example_food": "Example Food",
+  "text.food_timer_hud.another_food": "Another Food"
+}

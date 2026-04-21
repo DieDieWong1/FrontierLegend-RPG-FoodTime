@@ -1,0 +1,15 @@
+{
+  "title.food_timer_hud.config": "FoodTime 模组设置",
+  "category.food_timer_hud.general": "常规设置",
+  "option.food_timer_hud.enable": "启用 HUD 显示",
+  "option.food_timer_hud.x": "HUD X 坐标",
+  "option.food_timer_hud.y": "HUD Y 坐标",
+  "option.food_timer_hud.scale": "HUD 缩放大小",
+  "key.food_timer_hud.open_config": "打开设置菜单",
+  "key.food_timer_hud.edit_hud": "编辑 HUD 位置与大小",
+  "category.food_timer_hud.keys": "FoodTime",
+  "title.food_timer_hud.edit": "FoodTime HUD 编辑器",
+  "text.food_timer_hud.edit_instructions": "鼠标拖拽以移动位置，滚轮调整大小，按下 ESC 保存并退出。",
+  "text.food_timer_hud.example_food": "示例食物",
+  "text.food_timer_hud.another_food": "另一个食物"
+}

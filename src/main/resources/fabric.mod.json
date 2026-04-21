@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "food_timer_hud",
+	"version": "${version}",
+	"name": "FoodTime",
+	"description": "就簡單顯示食物效果的剩餘時間，沒有任何複雜的功能",
+	"authors": [
+		"DieDieWong(雪火)"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "MIT",
+	"icon": "assets/food_timer_hud/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.foodtimerhud.client.FoodTimerHudClient"
+		],
+		"modmenu": [
+			"com.foodtimerhud.client.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		{
+			"config": "food_timer_hud.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.20.1 <=1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
